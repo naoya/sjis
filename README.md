@@ -1,3 +1,3 @@
 This is shift-jis file
 
-ã‚ã„ã†ãˆãŠã‹ããã‘ã“
+‚ ‚¢‚¤‚¦‚¨‚©‚«‚­‚¯‚±
